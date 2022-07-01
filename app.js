@@ -2,4 +2,4 @@
     app.js javascrip
 */ 
 
-console.log('test');
+console.log('test'); // TODO
